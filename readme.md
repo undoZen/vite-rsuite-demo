@@ -1,4 +1,4 @@
-Project inited from vite react template: `yarn create vite-app vite-rsuite && cd vite-rsuite && yarn`
+Project inited from vite react template: `yarn create vite-app --template react vite-rsuite && cd vite-rsuite && yarn`
 
 `yarn add rsuite` and add css line and import line into `App.jsx`
 
